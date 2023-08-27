@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ahakansahin/ahakansahin/blob/main/background.png)
+![MasterHead](https://github.com/ahakansahin/ahakansahin/blob/main/background.png)
 <h1 align="center">Hi 👋, I'm Ahmet Hakan Şahin</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
