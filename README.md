@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ahmet Hakan Şahin</h1>
-<h3 align="center">A passionate web developer from Turkey</h3>
+<h3 align="center">A passionate embedded developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **STM32**
 
 - 👨‍💻 All of my projects are available at [https://ahmethakansahin.com/](https://ahmethakansahin.com/)
 
