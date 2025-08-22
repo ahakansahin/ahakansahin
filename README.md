@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Hakan Şahin</h1>
 <h3 align="center">A passionate embedded developer from Turkey</h3>
 
-- 🌱 I’m currently learning **STM32**
+- 🌱 I’m currently learning **ARM Architecture**
 
 - 👨‍💻 All of my projects are available at [https://ahmethakansahin.com/](https://ahmethakansahin.com/)
 
